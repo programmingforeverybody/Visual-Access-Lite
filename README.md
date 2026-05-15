@@ -1,4 +1,4 @@
-# QuickAccess.exe 🗄️
+# QuickAccess🗄️
 
 Lightweight Windows application for managing Microsoft Access databases easily.
 
